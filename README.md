@@ -1,2 +1,0 @@
-# htpoligo
-HTP Oligo Designer
